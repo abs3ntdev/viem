@@ -1,8 +1,7 @@
 import { defineChain } from '../../utils/chain/defineChain.js'
 
-const sourceId = 1 // mainnet
 
-export const corn = /*#__PURE__*/ defineChain({
+export const saga = /*#__PURE__*/ defineChain({
   id: 5464,
   name: 'Saga',
   nativeCurrency: {
@@ -21,5 +20,4 @@ export const corn = /*#__PURE__*/ defineChain({
   },
   contracts: {
   },
-  sourceId,
 })
