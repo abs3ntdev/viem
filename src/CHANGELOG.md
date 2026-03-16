@@ -1,5 +1,13 @@
 # viem
 
+## 2.47.5
+
+### Patch Changes
+
+- [#4376](https://github.com/wevm/viem/pull/4376) [`64383c9e53cb42e5c371cc8da5a91cdfa47a3331`](https://github.com/wevm/viem/commit/64383c9e53cb42e5c371cc8da5a91cdfa47a3331) Thanks [@nowooj](https://github.com/nowooj)! - Added CONX chain.
+
+- [#4403](https://github.com/wevm/viem/pull/4403) [`e8435e340592986fcd9c21a7626ff40b1af1e850`](https://github.com/wevm/viem/commit/e8435e340592986fcd9c21a7626ff40b1af1e850) Thanks [@GuillermoEscobero](https://github.com/GuillermoEscobero)! - Removed Zircuit Mainnet deprecated RPCs and Zircuit old testnet.
+
 ## 2.47.4
 
 ### Patch Changes
